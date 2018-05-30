@@ -1,0 +1,56 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+name: Shin Hong
+email: hongshin@handong.edu
+description: > # this means to ignore newlines until "url:"
+
+footer_text: >
+
+
+url: https://hongshin.github.io # the base hostname & protocol for your site
+baseurl: /page # the subpath of your site, e.g. /blog/
+last_updated: # leave blank if you don't want to display last updated
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+github_username: # put your github username
+twitter_username: # put your twitter username
+linkedin_username: # put your linkedin username
+scholar_authorid: # put your google scholar author id
+contact_note: >
+  You can even add a little note about which of these is the best way to reach you.
+
+# Optional features
+show_social_icons:  false
+enable_anchorjs:    false
+enable_katex:       true
+
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+news_limit: 5
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+# Build settings
+markdown: kramdown
+#highlighter: pygments
+
+# Includes
+include: ['_pages']
+
+
