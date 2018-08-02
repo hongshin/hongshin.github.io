@@ -18,7 +18,7 @@ title: teaching
     * Members: Gundo Park, Haebin Jang, Suho Kim
     * PicKey is a system that assists users to manage passwords of the web sites. PicKey generate/manage image hints which help users remind the password, rather than passwords themselves. PicKey is implemented as a web service as well as a Chrome plugin.
     * PicKey was presented at the poster session in KCC 2018.
-    * This work won the Honorable Mention Award (장려상) at KCC 2018 Undergraduate Student Paper Competition.
+    * This work won the Honorable Mention Award (장려상) at KCC 2018 Undergraduate Student Paper Competition and the Bronze medal at the 2018 Spring Capstone Project Competition, CSEE@HGU
 1. Synthesizing Git Commit Message Using Neural Translations, 2017F-2018S
     * Members: Juyeong Jeon and Sinnae Kim
     * This project enhances an existing approach of translating source code change texts into a verbal description by recommending name identifiers, new neural networks, and different evaluation methods.
