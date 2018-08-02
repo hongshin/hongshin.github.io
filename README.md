@@ -23,7 +23,7 @@ Shin Hong has researched in automated software engineering with high interests o
 [\[ICSE'15\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:UebtZRa9Y70C) [\[ICST'14\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:eQOLeE2rZwMC)
 * static/dynamic analyses of multithreaded programs [\[STVR'15\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:ufrVoPGSRksC) [\[ICST'13\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:Y0pCki6q_DkC) [\[ISSTA'12\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:Tyk-4Ss8FVUC)
 
-The full list of the publications can be found at [Google Scholar](http://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ) and [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hong:Shin); more information at his [curricuulm vitae](http://hongshin.github.io/shinhong-cv.pdf).
+The full list of the publications can be found at [Google Scholar](http://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ) and [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hong:Shin); more information at his [Curricuulm Vitae](http://hongshin.github.io/shinhong-cv.pdf).
 
 ---
 
