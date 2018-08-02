@@ -3,7 +3,10 @@ layout: page
 permalink: /teaching/
 title: teaching
 ---
-### Courses ####
+### Master's Degree Program ###
+* Hansol Choe, Mar 2018--present
+
+### Undergraduate Courses ####
 * Software engineering: '16F, '17F, '18S
 * Open source software system: '17S, '18S
 * Problem solving with computational thinking: '16F, '17F, '18F
