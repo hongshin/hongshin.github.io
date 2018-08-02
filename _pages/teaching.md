@@ -26,7 +26,7 @@ title: teaching
 1. Developing FindSecurityBugs Checkers for Korean Security Vulnerability Inspection Guideline, 2017S-2017F
     * Memberbs: Youngmin Chae, Hansol Choe, Jaehun Lee, Sungkwon Park, Hyeonung Shin
     * The team members won a 2nd prize and a 3rd prize in 2017 Secure Coding Competition organized by KISA of the Korean government
-    * A part of the result was now merged to the master branch of FindSecurityBugs (ErrorMessageExposureDetector )[https://github.com/find-sec-bugs/find-sec-bugs/commit/ca149ad3e672db741d7f2a641bf20be195d88bb2][], (XSS via file name)[https://github.com/find-sec-bugs/find-sec-bugs/pull/359/files/f455a3fd934bf15e96d1bb77998948e15760d549]
+    * A part of the result was now merged to the master branch of FindSecurityBugs [ErrorMessageExposureDetector](https://github.com/find-sec-bugs/find-sec-bugs/commit/ca149ad3e672db741d7f2a641bf20be195d88bb2), [XSS via file name](https://github.com/find-sec-bugs/find-sec-bugs/pull/359/files/f455a3fd934bf15e96d1bb77998948e15760d549)
     1. TrashMon: Precise Trash Dumping Detection Using Image Processing Techniques, 2016F-2017S
     * Members: Ye Jin Kim, Je Yun Jung, Sung An Kwon
     * This project was placed in the 4th prize in 2017 Capstone Project Competition, CSEE@HGU
