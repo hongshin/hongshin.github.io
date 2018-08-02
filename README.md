@@ -34,6 +34,6 @@ The full list of the publications can be found at [Google Scholar](http://schola
 
 ----
 
-{:.center}
-<small>Powered by Github + Jekyll with the [Al-folio](https://github.com/alshedivat/al-folio) theme</small>
+<!--{:.center}-->
+<center> <small> Powered by Github + Jekyll with the <a href="https://github.com/alshedivat/al-folio">Al-folio</a> theme </small> </center>
 
