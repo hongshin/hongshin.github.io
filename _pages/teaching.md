@@ -3,8 +3,8 @@ layout: page
 permalink: /teaching/
 title: teaching
 ---
-### Master's Degree Program ###
-* Hansol Choe, Mar 2018--present
+### Research Supervision ###
+* Hansol Choe, Master's Degree, Mar 2018--present
 
 ### Undergraduate Courses ####
 * Software engineering: '16F, '17F, '18S
