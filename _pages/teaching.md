@@ -3,10 +3,10 @@ layout: page
 permalink: /teaching/
 title: teaching
 ---
-### Research Supervision ###
+#### Research Supervision ####
 * Hansol Choe, Master's Degree, Mar 2018--present
 
-### Undergraduate Courses ####
+#### Undergraduate Courses ####
 * Software engineering: '16F, '17F, '18S
 * Open source software system: '17S, '18S
 * Problem solving with computational thinking: '16F, '17F, '18F
@@ -16,7 +16,7 @@ title: teaching
 * Digital logic design: '16S
 * Java programming: '18F
 
-### Undergraduate Capstone Projects (completed) ###
+#### Undergraduate Capstone Projects (completed) ####
 1. PicKey: Secure Password Management System with Image-Hint, 2017F-2018S
     * Members: Gundo Park, Haebin Jang, Suho Kim
     * PicKey is a system that assists users to manage passwords of the web sites. PicKey generate/manage image hints which help users remind the password, rather than passwords themselves. PicKey is implemented as a web service as well as a Chrome plugin.
