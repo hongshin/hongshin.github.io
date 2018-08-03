@@ -7,14 +7,14 @@ title: teaching
 * Hansol Choe, Master's Degree, Mar 2018--present
 
 #### Undergraduate Courses ####
-* Software engineering: '16F, '17F, '18S
-* Open source software system: '17S, '18S
-* Problem solving with computational thinking: '16F, '17F, '18F
-* Discrete mathematics: '17F, '18F
-* Database system: '16S, '17S
-* Compiler theory: '17S
-* Digital logic design: '16S
-* Java programming: '18F
+* Software engineering: 2016F, 2017F, 2018S
+* Open source software system: 2017S, 2018S
+* Problem solving with computational thinking: 2016F, 2017F, 2018F
+* Discrete mathematics: 2017F, 2018F
+* Database system: 2016S, 2017S
+* Compiler theory: 2017S
+* Digital logic design: 2016S
+* Java programming: 2018F
 
 #### Undergraduate Capstone Projects (completed) ####
 1. PicKey: Secure Password Management System with Image-Hint, 2017F-2018S
