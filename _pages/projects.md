@@ -5,12 +5,12 @@ permalink: /projects/
 <!-- description: A growing collection of your cool projects. -->
 ---
 
-### Research funds ###
+#### Government Research Grants ####
 1. Developing Automated Software Test Generation Techniques Using Data-driven Analyses, Young Researcher Program Funded by NRF, 2017-current
 1. Intelligent Automation Techniques for Fullstack Software Debugging, Next-Generation Information Computing Development Program Funded  by NRF, 2017-current
 1. Detecting Software Performance Bugs Using Automated Unit Test Generation Techniques, Young Researcher Program Funded by NRF ,2015-2016
 
-### Industrial collaboration ###
+#### Industry Collaborations ####
 1. Detecting Multithreaded Program Errors in Real-time Operating Systems, Samsung Memory Research Institute, 2017-2018
 1. Machine Learning Approach to Analyze Static Analysis Alerts, Samsung Research, 2017
 
