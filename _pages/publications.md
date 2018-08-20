@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: Publications
 permalink: /publications/
 <!-- description: A growing collection of your cool projects. -->
 ---
