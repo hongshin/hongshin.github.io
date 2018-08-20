@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 ---
 #### Research Supervision ####
 * Hansol Choe, Master's Degree, Mar 2018--present
