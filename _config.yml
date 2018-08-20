@@ -36,12 +36,12 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
   publications:
     output: true
     permalink: /publications/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 news_limit: 5
 
