@@ -14,7 +14,7 @@ social: false
 
 Shin Hong is an assistant professor at [School of Computer Science and Electrical Engineering](http://csee.handong.edu) 
 in [Handong Global University (HGU)](http://www.handong.edu), where he leads [ARISE lab](https://sites.google.com/view/ariselab).
-He received Ph.D in Computer Science from [School of Computing](http://cs.kaist.ac.kr) at [KAIST](http://www.kaist.ac.kr) where he also had his M.S and B.S degrees. Shin Hong was a member of [Software Testing and Verification Group](http://swtv.kaist.ac.kr) led by Professor [Moonzoo Kim](http://swtv.kaist.ac.kr/~moonzoo) at KAIST.
+He received Ph.D in Computer Science from [School of Computing](http://cs.kaist.ac.kr) at [KAIST](http://www.kaist.ac.kr) where he also had his M.S and B.S degrees. Shin Hong was a member of [Software Testing and Verification Group](http://swtv.kaist.ac.kr) at KAIST.
 
 Shin Hong has researched in automated software engineering with high interests on the following topics:
 * automated software debugging [\[IST'17\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:5nxA0vEk-isC)[\[ASE'15\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:0EnyYjriUFMC)
