@@ -25,6 +25,8 @@ Shin Hong has researched in automated software engineering with high interests o
 
 The full list of the publications can be found at [Google Scholar](http://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ) and [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hong:Shin); more information at his [Curricuulm Vitae](http://hongshin.github.io/shinhong-cv.pdf).
 
+:bell: Shin Hong is [recruiting new grad students](recruit) (13 Sep 2018)
+
 ---
 
 <a href="mailto:hongshin@handong.edu"> hongshin@handong.edu </a>
