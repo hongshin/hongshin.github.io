@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recruiting
-permalink: /recurit/
+permalink: /recruiting/
 ---
 
 #### 2019년 전기 대학원생 모집 ####
