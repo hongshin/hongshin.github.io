@@ -12,14 +12,14 @@ permalink: /recruit/
 #### 연구분야 #####
 ARISE 연구실은 오늘날 소프트웨어로 인한 위험요소는 무엇인가? 안전하고(Safe & Secure), 믿을 수 있는(Reliable) 소프트웨어를 어떻게 만들 수 있는가,
 라는 질문에 과학적이고 기술적인 방법으로 답을 찾아가는 소프트웨어 공학(Software Engineering) 연구를 수행하는 공간입니다. 
-특별히, 기술 중심 소프트웨어 공학 연구를 위해 
+특별히, 기술 중심 소프트웨어 공학 연구를 위해 다음과 같은 요소 기술을 연구 & 학습합니다:
   * 소프트웨어 테스팅(Software Engineering)
   * 프로그램 분석(Program analysis)
   * 컴퓨팅 논리학(Computational Logic)  
-  * 데이터 분석(Data analysis)과 같은 
+  * 데이터 분석(Data analysis)
 
 컴퓨팅 과학 핵심 기술을 공부하고 이를 활용하여, 오늘날 우리 사회와 산업체에 실제적인 도움이 되는 기술과 도구 개발을 공부하게 됩니다.
-ARISE 연구실의 연구주제는 최근 발표한 논문을 통해 자세히 파악하실 수 있습니다(http://hongshin.github.com/publications)
+ARISE 연구실의 연구주제는 최근 발표한 논문을 통해 자세히 파악하실 수 있습니다: [http://hongshin.github.com/publications](http://hongshin.github.com/publications)
 
 #### 대학원 교육 ####
 
@@ -35,6 +35,6 @@ ARISE 연구실의 대학원 과정(석사, 학석사연계, 박사 학위 과�
  * 졸업 이후에 대기업/국책 연구소 연구원 진출, 한동대 박사과정을 포함 국내외 박사과정 진학이 가능하도록 적극 지원합니다.
 
 #### 연락 방법 ####
-대학원 진학에 관심이 있으시다면 10월 15일까지 hongshin@handong.edu로 메일 주셔서 상담 일정을 정하시기 바랍니다. 그 외의 궁금한 점도 hongshin@handong.edu로 문의 바랍니다.
+대학원 진학에 관심이 있으시다면 10월 15일까지 홍신 교수(hongshin@handong.edu)에게 메일로 연락하여 상담 일정을 정하시기 바랍니다. 그 외의 궁금한 점이 있으시다면 메일로 문의 바랍니다.
 
 2018년 9월 13일 홍신
