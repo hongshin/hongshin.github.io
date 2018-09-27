@@ -14,9 +14,10 @@ ARISE 연구실은 오늘날 소프트웨어로 인한 위험요소는 무엇인
 라는 질문에 과학적이고 기술적인 방법으로 답을 찾아가는 소프트웨어 공학(Software Engineering) 연구를 수행하는 공간입니다. 
 특별히, 기술 중심 소프트웨어 공학 연구를 위해 다음과 같은 요소 기술을 연구 & 학습합니다:
   * 소프트웨어 테스팅(Software Engineering)
-  * 프로그램 분석(Program analysis)
-  * 컴퓨팅 논리학(Computational Logic)  
-  * 데이터 분석(Data analysis)
+  * 프로그램 분석(Program Analysis)
+  * 컴퓨팅 논리학(Computational Logic)
+  * 시스템 소프트웨어(System Software)
+  * 데이터 분석(Data Analysis)
 
 컴퓨팅 과학 핵심 기술을 공부하고 이를 활용하여, 오늘날 우리 사회와 산업체에 실제적인 도움이 되는 기술과 도구 개발을 공부하게 됩니다.
 ARISE 연구실의 연구주제는 최근 발표한 논문을 통해 자세히 파악하실 수 있습니다: [http://hongshin.github.com/publications](http://hongshin.github.com/publications)
