@@ -27,6 +27,7 @@ The full list of the publications can be found at [Google Scholar](http://schola
 
 🔔 Shin Hong is [recruiting new grad students!](recruit) (13 Sep 2018)
 🔔 [ICSE 2020](https://conf.researchr.org/home/icse-2020) is coming to Seoul, South Korea
+
 ---
 
 <a href="mailto:hongshin@handong.edu"> hongshin@handong.edu </a>
