@@ -21,11 +21,9 @@ Shin Hong has researched in automated software engineering with high interests o
 * automated test generation 
 [\[ICST'18\]](https://scholar.google.co.kr/scholar?oi=bibs&cluster=17618120576903131180&btnI=1&hl=en)
 [\[ICSE'15\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:UebtZRa9Y70C) [\[ICST'14\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:eQOLeE2rZwMC)
-* static/dynamic analyses of multithreaded programs [\[STVR'15\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:ufrVoPGSRksC) [\[ICST'13\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:Y0pCki6q_DkC) [\[ISSTA'12\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:Tyk-4Ss8FVUC)
+* static and dynamic analyses [ICST'19] [\[STVR'15\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:ufrVoPGSRksC) [\[ICST'13\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:Y0pCki6q_DkC) [\[ISSTA'12\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:Tyk-4Ss8FVUC)
 
 The full list of the publications can be found at [Google Scholar](http://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ) and [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hong:Shin); more information at his [Curricuulm Vitae](http://hongshin.github.io/shinhong-cv.pdf).
-
-🔔 ARISE lab is [finding new S-lab members](https://sites.google.com/handong.edu/arise-slab) (7 Nov 2018) 
 
 🔔 [ICSE 2020](https://conf.researchr.org/home/icse-2020) is coming to Seoul, South Korea
 
