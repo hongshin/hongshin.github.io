@@ -9,14 +9,16 @@ title: Teaching
 * Juyoung Jeon, Master's Degree, Mar 2019--present
 
 #### Undergraduate Courses ####
-* Software engineering: 2016F, 2017F, 2018S
+* Software engineering: 2016F, 2017F, 2018S, 2019S
 * Open source software system: 2017S, 2018S
 * Problem solving with computational thinking: 2016F, 2017F, 2018F
 * Discrete mathematics: 2017F, [2018F](https://github.com/hongshin/DiscreteMath)
+* Operating System: 2019S
 * Database system: 2016S, 2017S
 * Compiler theory: 2017S
 * Digital logic design: 2016S
 * Java programming: [2018F](https://github.com/hongshin/Java)
+* C Programming: [2018W](https://github.com/hongshin/learningC)
 
 #### Undergraduate Capstone Projects (completed) ####
 1. PicKey: Secure Password Management System with Image-Hint, 2017F-2018S
