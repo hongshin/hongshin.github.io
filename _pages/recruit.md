@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2019년 후기 대학원생(학석사연계과정, 석사과정) 모집
+title: 2019년 후기 대학원생 모집
 permalink: /recruit/
 ---
 
