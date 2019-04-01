@@ -25,7 +25,7 @@ Shin Hong has researched in automated software engineering with high interests o
 
 The full list of the publications can be found at [Google Scholar](http://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ) and [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hong:Shin); more information at his [Curricuulm Vitae](http://hongshin.github.io/shinhong-cv.pdf).
 
-🔔 Recruiting new graduate students of the ARISE lab [detail](https://hongshin.github.io/recruit)  
+🔔 Recruiting new graduate students of the ARISE lab [[detail]](https://hongshin.github.io/recruit)  
 🔔 [ICSE 2020](https://conf.researchr.org/home/icse-2020) is coming to Seoul, South Korea
 
 ---
