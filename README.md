@@ -27,7 +27,7 @@ Shin Hong has researched in automated software engineering with high interests o
 [\[ICST'18\]](https://scholar.google.co.kr/scholar?oi=bibs&cluster=17618120576903131180&btnI=1&hl=en)
 [ESEC/FSE'19]
 * static and dynamic analyses 
-[\[JSS'13]\](https://www.sciencedirect.com/science/article/pii/S0164121212002671)
+[\[JSS'13\]](https://www.sciencedirect.com/science/article/pii/S0164121212002671)
 [\[ICST'14\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:eQOLeE2rZwMC)
 [\[STVR'15\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:ufrVoPGSRksC) 
 [\[ICST'19\]](https://icst2019.xjtu.edu.cn/Program1/Accepted_Papers.htm) 
