@@ -17,9 +17,6 @@ in [Handong Global University (HGU)](http://www.handong.edu), where he leads the
 He received Ph.D in Computer Science from [School of Computing](http://cs.kaist.ac.kr) at [KAIST](http://www.kaist.ac.kr) where he also had his M.S and B.S degrees. Shin Hong was a member of [Software Testing and Verification Group](http://swtv.kaist.ac.kr) at KAIST.
 
 Shin Hong has researched in automated software engineering with high interests on the following topics:
-* automated software debugging
-[\[ASE'15\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:0EnyYjriUFMC)
-[\[IST'17\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:5nxA0vEk-isC)
 
 * automated test generation 
 [\[ISSTA'12\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:Tyk-4Ss8FVUC)
@@ -27,7 +24,9 @@ Shin Hong has researched in automated software engineering with high interests o
 [\[ICSE'15\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:UebtZRa9Y70C) 
 [\[ICST'18\]](https://scholar.google.co.kr/scholar?oi=bibs&cluster=17618120576903131180&btnI=1&hl=en)
 [\[ESEC/FSE'19\]](https://esec-fse19.ut.ee/program/research-papers/)
-
+* automated software debugging
+[\[ASE'15\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:0EnyYjriUFMC)
+[\[IST'17\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:5nxA0vEk-isC)  
 * static and dynamic analyses 
 [\[JSS'13\]](https://www.sciencedirect.com/science/article/pii/S0164121212002671)
 [\[ICST'14\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:eQOLeE2rZwMC)
