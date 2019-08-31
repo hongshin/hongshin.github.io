@@ -11,6 +11,7 @@ permalink: /projects/
 1. Detecting Software Performance Bugs Using Automated Unit Test Generation Techniques, Young Researcher Program Funded by NRF ,2015-2016
 
 #### Industry Collaborations ####
+1. Asessing Quality of Unit Test Cases Automatically, Samsung Research, 2019
 1. Detecting Multithreaded Program Errors in Real-time Operating Systems, Samsung Memory Research Institute, 2017-2018
 1. Machine Learning Approach to Analyze Static Analysis Alerts, Samsung Research, 2017
 
