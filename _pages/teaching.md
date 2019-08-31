@@ -8,17 +8,17 @@ title: Teaching
 * Jeewoong Kim, Master's Degree, Jan 2019--present
 * Juyoung Jeon, Master's Degree, Mar 2019--present
 
-#### Undergraduate Courses ####
+#### Courses ####
 * Software engineering: 2016F, 2017F, 2018S, 2019S
-* Open source software system: 2017S, 2018S
-* Problem solving with computational thinking: 2016F, 2017F, 2018F
-* Discrete mathematics: 2017F, [2018F](https://github.com/hongshin/DiscreteMath)
+* Discrete mathematics: 2017F, [2018F](https://github.com/hongshin/DiscreteMath), [2019F](https://github.com/hongshin/DiscreteMath)
+* Problem solving with computational thinking: 2016F, 2017F, 2018F, 2019F
 * Operating System: 2019S
+* Open-source software system: 2017S, 2018S
+* Introduction to programming with Java: [2018F](https://github.com/hongshin/Java)
+* Introduction to programming with C: [2018W](https://github.com/hongshin/learningC)
 * Database system: 2016S, 2017S
 * Compiler theory: 2017S
 * Digital logic design: 2016S
-* Java programming: [2018F](https://github.com/hongshin/Java)
-* C Programming: [2018W](https://github.com/hongshin/learningC)
 
 #### Undergraduate Capstone Projects (completed) ####
 1. PicKey: Secure Password Management System with Image-Hint, 2017F-2018S
