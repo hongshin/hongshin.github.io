@@ -35,7 +35,7 @@ Shin Hong has researched in automated software engineering with high interests o
 
 The full list of the publications can be found at [Google Scholar](http://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ) and [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hong:Shin); more information at his [Curricuulm Vitae](http://hongshin.github.io/shinhong-cv.pdf).
 
-🔔 Consider submitting your testing paper to [the 1st IEEE/ACM Conference on Automation of Software Test (AST)](https://conf.researchr.org/home/icse-2020/ast-2020), Seoul
+🔔 Consider submitting your testing papers to [the 1st IEEE/ACM Conference on Automation of Software Test (AST)](https://conf.researchr.org/home/icse-2020/ast-2020), Seoul
 🔔 Recruiting new graduate students of the ARISE lab [[more]](https://hongshin.github.io/recruit)  
 🔔 [ICSE 2020](https://conf.researchr.org/home/icse-2020) is coming to Seoul, South Korea
 
