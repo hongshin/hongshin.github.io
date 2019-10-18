@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Shin Hong
-description: Ph.D in Computer Science / Assistant Professor @ CSEE, HGU // 홍신 (한동대학교 전산전자공학부 조교수)
+description: Ph.D in Computer Science / Assistant Professor @ CSEE, HGU <br> 홍신 (한동대학교 전산전자공학부 조교수)
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
 news: false
 social: false
 ---
-
+홍신 (한동대학교 전산전자공학부 조교수)
 
 Shin Hong is an assistant professor at [School of Computer Science and Electrical Engineering](http://csee.handong.edu) 
 in [Handong Global University (HGU)](http://www.handong.edu), where he leads the [ARISE lab](https://arise.handong.edu).
