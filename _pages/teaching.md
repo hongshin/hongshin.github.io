@@ -4,9 +4,10 @@ permalink: /teaching/
 title: Teaching
 ---
 #### Research Supervision ####
-* Hansol Choe, Master's Degree, Mar 2018--present
-* Jeewoong Kim, Master's Degree, Jan 2019--present
+* Hanyoung Yoo, Master's Degree, Mar 2020--present
 * Juyoung Jeon, Master's Degree, Mar 2019--present
+* Jeewoong Kim, Master's Degree, Jan 2019--present
+* Hansol Choe, Master's Degree, Mar 2018--present
 
 #### Courses ####
 * Software engineering: 2016F, 2017F, 2018S, 2019S
