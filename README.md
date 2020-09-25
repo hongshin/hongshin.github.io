@@ -27,7 +27,7 @@ Shin Hong has researched in automated software engineering with high interests o
 * automated software debugging
 [\[ASE'15\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:0EnyYjriUFMC)
 [\[IST'17\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:5nxA0vEk-isC)  
-[ICSE-NIER'20]
+[ICSE-NIER'20](https://dl.acm.org/doi/abs/10.1145/3377816.3381746)
 * static and dynamic analyses 
 [\[JSS'13\]](https://www.sciencedirect.com/science/article/pii/S0164121212002671)
 [\[ICST'14\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:eQOLeE2rZwMC)
