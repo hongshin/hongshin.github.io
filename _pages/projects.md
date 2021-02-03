@@ -6,11 +6,14 @@ permalink: /projects/
 ---
 
 #### Government Research Grants ####
-1. Developing Automated Software Test Generation Techniques Using Data-driven Analyses, Young Researcher Program Funded by NRF, 2017-current
+1. Fuzzin g based Test Case Gen eration Tech n iq ues for Effective Con tin uous Testin gs of Softw are
+Projects, Young Researcher Program Funded by NRF, 2020-current
 1. Intelligent Automation Techniques for Fullstack Software Debugging, Next-Generation Information Computing Development Program Funded  by NRF, 2017-current
+1. Developing Automated Software Test Generation Techniques Using Data-driven Analyses, Young Researcher Program Funded by NRF, 2017-2019
 1. Detecting Software Performance Bugs Using Automated Unit Test Generation Techniques, Young Researcher Program Funded by NRF ,2015-2016
 
 #### Industry Collaborations ####
+1. Using Neural Embedding for Tracking Source Code Changes, 2020
 1. Asessing Quality of Unit Test Cases Automatically, Samsung Research, 2019
 1. Detecting Multithreaded Program Errors in Real-time Operating Systems, Samsung Memory Research Institute, 2017-2018
 1. Machine Learning Approach to Analyze Static Analysis Alerts, Samsung Research, 2017
