@@ -24,7 +24,7 @@ Shin Hong has researched in automated software engineering with high interests o
 [\[ICSE'15\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:UebtZRa9Y70C) 
 [\[ICST'18\]](https://scholar.google.co.kr/scholar?oi=bibs&cluster=17618120576903131180&btnI=1&hl=en)
 [\[ESEC/FSE'19\]](https://esec-fse19.ut.ee/program/research-papers/)
-[\[STVR-Online\]](https://onlinelibrary.wiley.com/doi/10.1002/stvr.1715)
+[\[STVR'21\]](https://onlinelibrary.wiley.com/doi/10.1002/stvr.1715)
 * automated software debugging
 [\[ASE'15\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:0EnyYjriUFMC)
 [\[IST'17\]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=en&user=AXlXg2AAAAAJ&citation_for_view=AXlXg2AAAAAJ:5nxA0vEk-isC)  
