@@ -23,7 +23,7 @@ title: Teaching
 
 #### Undergraduate Capstone Projects ####
 
-[my teaching statement for capstone project (require Handong log-in](https://sites.google.com/handong.edu/arise-slab/capstone-project?pli=1&authuser=1)
+[my teaching statement for capstone project (require Handong log-in)](https://sites.google.com/handong.edu/arise-slab/capstone-project?pli=1&authuser=1)
 
 1. Effective Continuous Testing with Automated Unit Test Generation Technique (2020S-2020F)
    * Members: Doyun Kim, Sungmin Kim
