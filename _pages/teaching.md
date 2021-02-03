@@ -11,17 +11,40 @@ title: Teaching
 
 #### Courses ####
 * Software engineering: 2016F, 2017F, 2018S, 2019S
-* Discrete mathematics: 2017F, [2018F](https://github.com/hongshin/DiscreteMath), [2019F](https://github.com/hongshin/DiscreteMath)
-* Problem solving with computational thinking: 2016F, 2017F, 2018F, 2019F
-* Operating System: 2019S
+* [Discrete mathematics](https://github.com/hongshin/DiscreteMath): 2017F, 2018F, 2019F, 2020F
+* [Operating System](http://github.com/hongshin/OperatingSystem): 2019S, 2020S, 2021S
+* Problem solving with computational thinking: 2016F, 2017F, 2018F, 2019F, 2020F
 * Open-source software system: 2017S, 2018S
-* Introduction to programming with Java: [2018F](https://github.com/hongshin/Java)
-* Introduction to programming with C: [2018W](https://github.com/hongshin/learningC)
+* [Introduction to programming with Java](https://github.com/hongshin/Java): 2018F
+* [Introduction to programming with C](https://github.com/hongshin/learningC): 2018W, 2019W
 * Database system: 2016S, 2017S
 * Compiler theory: 2017S
 * Digital logic design: 2016S
 
-#### Undergraduate Capstone Projects (completed) ####
+#### Undergraduate Capstone Projects ####
+
+[my teaching statement for capstone project (require Handong log-in](https://sites.google.com/handong.edu/arise-slab/capstone-project?pli=1&authuser=1)
+
+1. Effective Continuous Testing with Automated Unit Test Generation Technique (2020S-2020F)
+   * Members: Doyun Kim, Sungmin Kim
+1. D-Angora: Extending Angora to Effective Distributed Fuzzing (2019F-2020S)
+   * Members: Seungwoo Kim, Jihyun Park, Sihyung Yu, Jeongin Cho
+1. Packet Sniffing-based Network Access Monitoring Systems for Smart Home Service Security (2019F-2020S)
+   * Members: Briel Ga, Aron Kim
+1. Design and Implementation of Code-related Conversation Service for Online Programming Education (2019F-2020S)
+   * Members: Jongeun Kim, Youngwon Jeon
+1. Web-based Programming Test Platform for University Programming Course (2019F-2020S)
+   * Members: Yehong Min, Yeonwoo Lim
+1. Digital Forensic Tools for Analyzing Apple File System Images (2019F-2020S)
+   * Members: Seongbin Baek, Yejin Yang, Aron Lim
+1. Design and Implementation of Automated Programming Assignment Assessment Service and Systems for GitHub Repositories (2019S-2019F)
+   * Members: Chaeyoung Kim, Jihye Oh, Hyejin Jang, Minji Ha
+1. Static Bug Checkers for Detecting Security Vulnerabilities in Python Web Applications (2018F-2019S)
+   * Members: Yeonyak Ko, Hyerim Leem
+1. Distributed Concolic Testing Tool for Testing Embedded Software (2018F-2019S)
+   * Members: Hyorim Kim, Gundo Baek
+1. Static Bug Checkers for PHP Web Application Security Vulnerabilities (2018S-2018F)
+   * Members: Ugeo Moon, Taeseong Park, Bokyeong Han, Sol Han   
 1. PicKey: Secure Password Management System with Image-Hint, 2017F-2018S
     * Members: Gundo Park, Haebin Jang, Suho Kim
     * PicKey is a system that assists users to manage passwords of the web sites. PicKey generate/manage image hints which help users remind the password, rather than passwords themselves. PicKey is implemented as a web service as well as a Chrome plugin.
