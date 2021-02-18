@@ -6,9 +6,9 @@ permalink: /projects/
 ---
 
 #### Government Research Grants ####
-1. Fuzzing based Test Case Generation Techniques for Effective Continuous Testings of Software Projects, Young Researcher Program Funded by NRF, 2020-current
-1. Intelligent Automation Techniques for Fullstack Software Debugging, Next-Generation Information Computing Development Program Funded  by NRF, 2017-current
-1. Developing Automated Software Test Generation Techniques Using Data-driven Analyses, Young Researcher Program Funded by NRF, 2017-2019
+1. Fuzzing based Test Case Generation Techniques for Effective Continuous Testings of Software Projects, Young Researcher Program Funded by NRF, 2020-present
+1. Intelligent Automation Techniques for Fullstack Software Debugging, Next-Generation Information Computing Development Program Funded  by NRF, 2017-2021
+1. Developing Automated Software Test Generation Techniques Using Data-driven Analyses, Young Researcher Program Funded by NRF, 2017-2020
 1. Detecting Software Performance Bugs Using Automated Unit Test Generation Techniques, Young Researcher Program Funded by NRF ,2015-2016
 
 #### Industry Collaborations ####
