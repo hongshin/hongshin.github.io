@@ -8,6 +8,7 @@ permalink: /recruit/
 
 **ARISE 연구실에서 석사, 학석사연계, 석박사연계, 박사 과정으로 진학할 신입생을 모집합니다.**
 * (참고) 한동대 일반대학원 2021년 가을학기 전형 원서접수가 2021 5월 중순에 있을 예정입니다.
+* [English version](http://arise.handong.edu/recruit)
 
 #### 연구분야 #####
 ARISE 연구실은 오늘날 소프트웨어로 인한 위험요소는 무엇인가, 안전하고(Safe & Secure), 믿을 수 있는(Reliable) 소프트웨어를 어떻게 만들 수 있는가,
