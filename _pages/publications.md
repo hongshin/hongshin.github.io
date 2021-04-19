@@ -13,4 +13,4 @@ permalink: /publications/
 #### Domestic conference and journal papers (written in Korean) ####
   * <a class="page-link" href="http://www.dbpia.co.kr/Author/AuthorInfo?arcId=&ancId=712724"> DBpia </a>
   * <a class="page-link" href="http://www.riss.kr/search/Search.do?detailSearch=true&searchGubun=true&queryText=znCreator,+%ED%99%8D%EC%8B%A0+%28+Hong+Shin+%29&colName=re_a_kor"> RISS </a>
-  * <a class="page-link" href="https://github.com/hongshin/publications/korean"> (PDF files of these papers) </a>
+  * <a class="page-link" href="https://github.com/hongshin/publications/tree/main/korean"> (PDF files of these papers) </a>
