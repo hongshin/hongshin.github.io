@@ -28,9 +28,11 @@ permalink: /publications/
 <p> <font size=2> 19.	M. Kim, S. Hong. C. Hong, T. Kim, Model-based Kernel Testing for Concurrency Bugs through Counter Example Replay, Model-based Testing (ENTCS volume 253, issue 2), York, UK, Mar 2009 </font> </p>
 
  
+ <br>
+ <br>
  
 <h4> Domestic conference and journal papers (written in Korean) </h4>
 
-<a class="page-link" href="http://www.dbpia.co.kr/Author/AuthorInfo?arcId=&ancId=712724"> [DBpia] </a>
-<a class="page-link" href="http://www.riss.kr/search/Search.do?detailSearch=true&searchGubun=true&queryText=znCreator,+%ED%99%8D%EC%8B%A0+%28+Hong+Shin+%29&colName=re_a_kor"> [RISS] </a>
-<a class="page-link" href="https://github.com/hongshin/publications/tree/main/korean"> [PDF files] </a>
+* <a class="page-link" href="http://www.dbpia.co.kr/Author/AuthorInfo?arcId=&ancId=712724"> [DBpia] </a> <br>
+* <a class="page-link" href="http://www.riss.kr/search/Search.do?detailSearch=true&searchGubun=true&queryText=znCreator,+%ED%99%8D%EC%8B%A0+%28+Hong+Shin+%29&colName=re_a_kor"> [RISS] </a> <br>
+* <a class="page-link" href="https://github.com/hongshin/publications/tree/main/korean"> [PDF files] </a> <br>
