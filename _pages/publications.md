@@ -5,9 +5,9 @@ permalink: /publications/
 <!-- description: A growing collection of your cool projects. -->
 ---
 
-<h2> International conference and journal papers </h2>  <a class="page-link" href="https://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ"> \[Google Scholar\] </a> <a class="page-link" href="https://dblp.dagstuhl.de/pers/hd/h/Hong:Shin"> \[DBLP\] </a> <a class="page-link" href="https://github.com/hongshin/publications"> \[PDFs\] </a>
+<h4> International conference and journal papers </h4>  <a class="page-link" href="https://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ"> \[Google Scholar\] </a> <a class="page-link" href="https://dblp.dagstuhl.de/pers/hd/h/Hong:Shin"> \[DBLP\] </a> <a class="page-link" href="https://github.com/hongshin/publications"> \[PDFs\] </a>
 
-<font size=2>
+<font size=1>
 <p> 1.	H. Yoo, J. Hong, B. Lucas, D. W. Hwang, S. Hong, Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA, The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2021, accepted </p>
 <p>  2.	R. S. Herlim, S. Hong, Y. Kim, M. Kim, Empirical Study of Effectiveness of EvoSuite on the SBST 2020 Tool Competition Benchmark, the 13th Symposium on Search-Based Software Engineering (SSBSE), Replications and Negative Results (RENE), 2021, accepted </p>
 <p> 3.	Y. Kim and S. Hong, Learning-based Mutant Reduction using Fine-grained Mutation Operators, Software Testing, Verification and Reliability (STVR), accepted. </p>
@@ -29,7 +29,9 @@ permalink: /publications/
 <p> 19.	M. Kim, S. Hong. C. Hong, T. Kim, Model-based Kernel Testing for Concurrency Bugs through Counter Example Replay, Model-based Testing (ENTCS volume 253, issue 2), York, UK, Mar 2009 </p>
 </font>
 
-#### Domestic conference and journal papers (written in Korean) ####
-  * <a class="page-link" href="http://www.dbpia.co.kr/Author/AuthorInfo?arcId=&ancId=712724"> DBpia </a>
-  * <a class="page-link" href="http://www.riss.kr/search/Search.do?detailSearch=true&searchGubun=true&queryText=znCreator,+%ED%99%8D%EC%8B%A0+%28+Hong+Shin+%29&colName=re_a_kor"> RISS </a>
-  * <a class="page-link" href="https://github.com/hongshin/publications/tree/main/korean"> (PDF files of these papers) </a>
+
+<h4> Domestic conference and journal papers (written in Korean) </h4>
+
+<a class="page-link" href="http://www.dbpia.co.kr/Author/AuthorInfo?arcId=&ancId=712724"> [DBpia] </a>
+<a class="page-link" href="http://www.riss.kr/search/Search.do?detailSearch=true&searchGubun=true&queryText=znCreator,+%ED%99%8D%EC%8B%A0+%28+Hong+Shin+%29&colName=re_a_kor"> [RISS] </a>
+  * <a class="page-link" href="https://github.com/hongshin/publications/tree/main/korean"> [PDF files] </a>
