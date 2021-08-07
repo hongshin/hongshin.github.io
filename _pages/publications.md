@@ -39,8 +39,8 @@ permalink: /publications/
 
 <font size=2>
 <ol>
-<li>	H. Yoo and S. Hong, OSSFuzzBugs: A Collection of Open-source Real-world Fault Artifacts for Experimenting Unit-level Fuzzing Techniques, Korean Congress of Computing (KCC), Jun 23-25, 2021</li>
-<li>	H. Choe and S. Hong, Multi-directional Concolic Testing Search Strategies for Mitigating Path-space Local Search Problem, Korean Software Engineering Conference (KCSE), Feb 1-2, 2021 (short paper) </li>
+<li> <font size=2>	H. Yoo and S. Hong, OSSFuzzBugs: A Collection of Open-source Real-world Fault Artifacts for Experimenting Unit-level Fuzzing Techniques, Korean Congress of Computing (KCC), Jun 23-25, 2021</font></li>
+<li>	<font size=2> H. Choe and S. Hong, Multi-directional Concolic Testing Search Strategies for Mitigating Path-space Local Search Problem, Korean Software Engineering Conference (KCSE), Feb 1-2, 2021 (short paper) </font></li>
 <li>	H. Choe and S. Hong, Bounded Search Strategies of Concolic Testing for Effective and Efficient Structural Coverage Achievement, Journal of KIISE, 48(2), pp. 201-210, Feb 2021</li>
 <li>	J. Cho and S. Hong, Improving Mutation-based Fuzzing by Input Keyword Extraction, Korean Software Engineering Conference (KCSE), Feb 1-2, 2021 (Best short paper award)</li>
 <li>	D. Kim, S. Kim, S. Hong, Effective Continuous Testing with Automated Unit Test Generation Technique, Korean Software Congress (KSC), Dec 2020 (Best undergraduate student paper award)</li>
