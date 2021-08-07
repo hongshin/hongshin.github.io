@@ -7,6 +7,7 @@ permalink: /publications/
 
 <h4> International conference and journal papers </h4>  <a class="page-link" href="https://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ"> \[Google Scholar\] </a> <a class="page-link" href="https://dblp.dagstuhl.de/pers/hd/h/Hong:Shin"> \[DBLP\] </a> <a class="page-link" href="https://github.com/hongshin/publications"> \[PDFs\] </a>
 
+<font size=2>
 <ol>
 <li> <font size=2> H. Yoo, J. Hong, B. Lucas, D. W. Hwang, S. Hong, Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA, The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2021, accepted </font> </li>
 <li> <font size=2> R. S. Herlim, S. Hong, Y. Kim, M. Kim, Empirical Study of Effectiveness of EvoSuite on the SBST 2020 Tool Competition Benchmark, the 13th Symposium on Search-Based Software Engineering (SSBSE), Replications and Negative Results (RENE), 2021, accepted </font> </li>
@@ -28,7 +29,7 @@ permalink: /publications/
 <li> <font size=2> S. Hong, J. Ahn, S. Park, M. Kim, and M. J. Harrold, Testing Concurrent Programs to Achieve High Synchronization Coverage, International Symposium on Software Testing and Analysis (ISSTA), Jul 15-20, 2012 (acceptance ratio: 28.7%) </font>  </li>
 <li> <font size=2> M. Kim, S. Hong. C. Hong, T. Kim, Model-based Kernel Testing for Concurrency Bugs through Counter Example Replay, Model-based Testing (ENTCS volume 253, issue 2), York, UK, Mar 2009 </font> </li>
 </ol>
-
+</font>
 
 <p> <font size=2> 1.	H. Yoo, J. Hong, B. Lucas, D. W. Hwang, S. Hong, Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA, The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2021, accepted </font> </p>
 <p> <font size=2> 2.	R. S. Herlim, S. Hong, Y. Kim, M. Kim, Empirical Study of Effectiveness of EvoSuite on the SBST 2020 Tool Competition Benchmark, the 13th Symposium on Search-Based Software Engineering (SSBSE), Replications and Negative Results (RENE), 2021, accepted </font> </p>
@@ -60,9 +61,9 @@ permalink: /publications/
 <a class="page-link" href="https://github.com/hongshin/publications/tree/main/korean"> [PDF files] </a> 
 <br>
 
-<font size=2>
 <ol>
-<li> <font size=2>	H. Yoo and S. Hong, OSSFuzzBugs: A Collection of Open-source Real-world Fault Artifacts for Experimenting Unit-level Fuzzing Techniques, Korean Congress of Computing (KCC), Jun 23-25, 2021</font></li>
+<font size=2>
+<li> <font size=2>	H. Yoo and S. Hong, OSSFuzzBugs: A Collection of Open-source Real-world Fault Artifacts for Experimenting Unit-level Fuzzing Techniques, Korean Congress of Computing (KCC), Jun 23-25, 2021</font></li></font>
 <li>	<font size=2> H. Choe and S. Hong, Multi-directional Concolic Testing Search Strategies for Mitigating Path-space Local Search Problem, Korean Software Engineering Conference (KCSE), Feb 1-2, 2021 (short paper) </font></li>
 <li><font size=2>	H. Choe and S. Hong, Bounded Search Strategies of Concolic Testing for Effective and Efficient Structural Coverage Achievement, Journal of KIISE, 48(2), pp. 201-210, Feb 2021</font></li>
 <li><font size=2>	J. Cho and S. Hong, Improving Mutation-based Fuzzing by Input Keyword Extraction, Korean Software Engineering Conference (KCSE), Feb 1-2, 2021 (Best short paper award)</font></li>
