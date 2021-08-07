@@ -38,7 +38,6 @@ permalink: /publications/
 <a class="page-link" href="https://github.com/hongshin/publications/tree/main/korean"> [PDF files] </a> 
 <br>
 
-<p>
 <ol> 
 <font size=2> <li>	H. Yoo and S. Hong, OSSFuzzBugs: A Collection of Open-source Real-world Fault Artifacts for Experimenting Unit-level Fuzzing Techniques, Korean Congress of Computing (KCC), Jun 23-25, 2021<br/><br/></li></font>
 <font size=2><li> H. Choe and S. Hong, Multi-directional Concolic Testing Search Strategies for Mitigating Path-space Local Search Problem, Korean Software Engineering Conference (KCSE), Feb 1-2, 2021 (short paper) <br/><br/></li></font>
@@ -63,4 +62,3 @@ permalink: /publications/
 <font size=2><li>	W. Kim, H. Choi, S. Hong, Application of M/G/c/c Queueing Models to Optimize Book Circulation Process in University Library, Journal of the Korea Management Engineering Society, Dec 2016 <br/><br/></li></font>
 <font size=2><li>	Y. Jeon, Y. Kim, S. Hong, M. Kim, Mutagen4J: Effective Mutation Generation Tool for Java Programs, Journal of KIISE (JOK), 43(9), pp. 974—982, Sep 2016 <br/><br/></li></font>
 </ol>
-</p>
