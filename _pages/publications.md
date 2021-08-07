@@ -7,9 +7,10 @@ permalink: /publications/
 
 <h4> International conference and journal papers </h4>  <a class="page-link" href="https://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ"> \[Google Scholar\] </a> <a class="page-link" href="https://dblp.dagstuhl.de/pers/hd/h/Hong:Shin"> \[DBLP\] </a> <a class="page-link" href="https://github.com/hongshin/publications"> \[PDFs\] </a>
 
+<p>
 <ol>
 <font size=2> <li> H. Yoo, J. Hong, B. Lucas, D. W. Hwang, S. Hong, Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA, The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2021, accepted <br> </font></li> 
-<font size=2> <li> <p> <font size=2>R. S. Herlim, S. Hong, Y. Kim, M. Kim, Empirical Study of Effectiveness of EvoSuite on the SBST 2020 Tool Competition Benchmark, the 13th Symposium on Search-Based Software Engineering (SSBSE), Replications and Negative Results (RENE), 2021, accepted </font> </p></li></font>
+<font size=2> <li> R. S. Herlim, S. Hong, Y. Kim, M. Kim, Empirical Study of Effectiveness of EvoSuite on the SBST 2020 Tool Competition Benchmark, the 13th Symposium on Search-Based Software Engineering (SSBSE), Replications and Negative Results (RENE), 2021, accepted </li></font>
 <font size=2> <li> Y. Kim and S. Hong, Learning-based Mutant Reduction using Fine-grained Mutation Operators, Software Testing, Verification and Reliability (STVR), accepted. </li> </font>
 <font size=2> <li> Y. Kim and S. Hong, DeMiner: Test Generation for High Test Coverage through Mutant Exploration, Software Testing, Verification and Reliability (STVR), Volume 31, Issue 1-2, January-March, 2021 </li> </font>
 <font size=2> <li> J. Jeon and S. Hong, Threats to Validity in Evaluating Mutation-based Fault Localization, International Conference on Software Engineering (ICSE), New Ideas and Emerging Results (NIER), Jul 6-11, 2020 (acceptance ratio: 30%) </li> </font>
@@ -28,7 +29,7 @@ permalink: /publications/
 <font size=2> <li> S. Hong, J. Ahn, S. Park, M. Kim, and M. J. Harrold, Testing Concurrent Programs to Achieve High Synchronization Coverage, International Symposium on Software Testing and Analysis (ISSTA), Jul 15-20, 2012 (acceptance ratio: 28.7%) </font>  </li>
 <font size=2> <li> M. Kim, S. Hong. C. Hong, T. Kim, Model-based Kernel Testing for Concurrency Bugs through Counter Example Replay, Model-based Testing (ENTCS volume 253, issue 2), York, UK, Mar 2009 </li> </font>
 </ol>
-</font>
+</p>
 
 <br>
  
@@ -39,6 +40,7 @@ permalink: /publications/
 <a class="page-link" href="https://github.com/hongshin/publications/tree/main/korean"> [PDF files] </a> 
 <br>
 
+<p>
 <ol> 
 <font size=2> <li>	H. Yoo and S. Hong, OSSFuzzBugs: A Collection of Open-source Real-world Fault Artifacts for Experimenting Unit-level Fuzzing Techniques, Korean Congress of Computing (KCC), Jun 23-25, 2021</li></font>
 <font size=2><li> H. Choe and S. Hong, Multi-directional Concolic Testing Search Strategies for Mitigating Path-space Local Search Problem, Korean Software Engineering Conference (KCSE), Feb 1-2, 2021 (short paper) </li></font>
@@ -63,3 +65,4 @@ permalink: /publications/
 <font size=2><li>	W. Kim, H. Choi, S. Hong, Application of M/G/c/c Queueing Models to Optimize Book Circulation Process in University Library, Journal of the Korea Management Engineering Society, Dec 2016 </li></font>
 <font size=2><li>	Y. Jeon, Y. Kim, S. Hong, M. Kim, Mutagen4J: Effective Mutation Generation Tool for Java Programs, Journal of KIISE (JOK), 43(9), pp. 974—982, Sep 2016 </li></font>
 </ol>
+</p>
