@@ -7,10 +7,9 @@ permalink: /publications/
 
 <h4> International conference and journal papers </h4>  <a class="page-link" href="https://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ"> \[Google Scholar\] </a> <a class="page-link" href="https://dblp.dagstuhl.de/pers/hd/h/Hong:Shin"> \[DBLP\] </a> <a class="page-link" href="https://github.com/hongshin/publications"> \[PDFs\] </a>
 
-<font size=2>
 <ol>
-<font size=2> <li> H. Yoo, J. Hong, B. Lucas, D. W. Hwang, S. Hong, Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA, The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2021, accepted <br> </li> </font>
-<font size=2> <li> <p>R. S. Herlim, S. Hong, Y. Kim, M. Kim, Empirical Study of Effectiveness of EvoSuite on the SBST 2020 Tool Competition Benchmark, the 13th Symposium on Search-Based Software Engineering (SSBSE), Replications and Negative Results (RENE), 2021, accepted </p></li> </font>
+<font size=2> <li> H. Yoo, J. Hong, B. Lucas, D. W. Hwang, S. Hong, Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA, The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2021, accepted <br> </font></li> 
+<font size=2> <li> <p> <font size=2>R. S. Herlim, S. Hong, Y. Kim, M. Kim, Empirical Study of Effectiveness of EvoSuite on the SBST 2020 Tool Competition Benchmark, the 13th Symposium on Search-Based Software Engineering (SSBSE), Replications and Negative Results (RENE), 2021, accepted </font> </p></li></font>
 <font size=2> <li> Y. Kim and S. Hong, Learning-based Mutant Reduction using Fine-grained Mutation Operators, Software Testing, Verification and Reliability (STVR), accepted. </li> </font>
 <font size=2> <li> Y. Kim and S. Hong, DeMiner: Test Generation for High Test Coverage through Mutant Exploration, Software Testing, Verification and Reliability (STVR), Volume 31, Issue 1-2, January-March, 2021 </li> </font>
 <font size=2> <li> J. Jeon and S. Hong, Threats to Validity in Evaluating Mutation-based Fault Localization, International Conference on Software Engineering (ICSE), New Ideas and Emerging Results (NIER), Jul 6-11, 2020 (acceptance ratio: 30%) </li> </font>
@@ -40,28 +39,27 @@ permalink: /publications/
 <a class="page-link" href="https://github.com/hongshin/publications/tree/main/korean"> [PDF files] </a> 
 <br>
 
-<ol>
+<ol> 
 <font size=2> <li>	H. Yoo and S. Hong, OSSFuzzBugs: A Collection of Open-source Real-world Fault Artifacts for Experimenting Unit-level Fuzzing Techniques, Korean Congress of Computing (KCC), Jun 23-25, 2021</li></font>
-<li>	<font size=2> H. Choe and S. Hong, Multi-directional Concolic Testing Search Strategies for Mitigating Path-space Local Search Problem, Korean Software Engineering Conference (KCSE), Feb 1-2, 2021 (short paper) </li></font>
-<li><font size=2>	H. Choe and S. Hong, Bounded Search Strategies of Concolic Testing for Effective and Efficient Structural Coverage Achievement, Journal of KIISE, 48(2), pp. 201-210, Feb 2021</li></font>
-<li><font size=2>	J. Cho and S. Hong, Improving Mutation-based Fuzzing by Input Keyword Extraction, Korean Software Engineering Conference (KCSE), Feb 1-2, 2021 (Best short paper award)</li></font>
-<li><font size=2>	D. Kim, S. Kim, S. Hong, Effective Continuous Testing with Automated Unit Test Generation Technique, Korean Software Congress (KSC), Dec 2020 (Best undergraduate student paper award)</li></font>
-<li><font size=2>	J. Jeon, S. Hong, Detecting Subtype Inconsistency Errors by Unit Test Cross-checking, Korean Congress of Computing (KCC), July 2020 </li></font>
-<li><font size=2>	J. Jeon and S. Hong, Improving Mutation-Based Fault Localization for Better Locating Omission Faults Using Coverage Change Information, Journal of KIISE, 47 (9), pp. 863-872, Sep 2020 </li></font>
-<li><font size=2>	H. Leem, H. Choe, H. Kim, S. Hong, CRESTIVE-DX: Design and Implementation of Distributed Concolic Testing Tool for Embedded Software, KIPS Transactions on Software and Data Engineering (KTSDE), 9 (8), pp. 229-234, Aug 2020 </li></font>
-<li><font size=2>	J. Kim, Y. Jeon, S. Hong, Design and Implementation of Code-related Conversation Service for Online Programming Education, Korean Congress of Computing (KCC), July 2019 </li></font>
-<li><font size=2>	J. Kim, S. Hong, Evaluation of Test Requirement Extraction Techniques for Javadoc Description, Korean Software Engineering Conference (KCSE), 2020 (short paper) </li></font>
-<li><font size=2>	H. Choe, H. Leem, H. Kim, S. Hong, Design and Implementation of Distributed Concolic Testing Tool for Embedded Software, Korean Software Engineering Conference, 2020 (Best short paper award) </li></font>
-<li><font size=2>	J. Jeon and S. Hong, Improving Mutation-Based Fault Localization for Better Locating Omission Faults, Korean Software Congress (KSC), Dec 2019 (Best paper award) </li></font>
-<li><font size=2>	C. Kim, J. Oh, H, Jeong, M. Ha, S. Hong, Design and Implementation of Automated Programming Assignment Assessment Systems for GitHub Repositories, Korean Software Congress (KSC), Dec 2019 (Best paper award) </li></font>
-<li><font size=2>	H. Choe and S. Hong, Bounded Search Strategies of Concolic Testing for Effective and Efficient Test Coverage Achievement, Korean Congress of Computing (KCC), Jun 26-28, 2019 (Best paper award) </li></font>
-<li><font size=2>	S. Hong, Y. Kim, M. Kim, S. Yoon, H. Jeong, S. Park, AtomicitySanitizer: Effective Runtime Atomicity Violation Detector for Multithreaded C Programs, Korean Software Congress (KSC), Dec 19-21, 2019 (Best paper presentation award) </li></font>
-<li><font size=2>	J. Lee, H. Choe, S. Hong, Systematic and Comprehensive Comparisons of the MOIS Security Vulnerability Inspection Criteria and Open-Source Security Bug Detectors for Java Web Applications, Journal of Software Engineering Society, 28(1), 2019 </li></font>
-<li><font size=2>	H. Choe and S. Hong, Categories and Patterns of Java Program Unit Test Code Bugs, Journal of KIISE, 46(4), 2019 </li></font>
-<li><font size=2>	H. Choe and S. Hong, A Classification of Unit Test Bugs in Java Programs, Korean Congress of Computing (KCC), Jun 20-22, 2018 (Best paper award) </li></font>
-<li><font size=2>	J. Lee and S. Hong, Detecting Memory Bloats of Java Programs by Monitoring Repeated Unit Test Executions: A Case Study with Apache Commons VFS, Korean Software Engineering Conference (KCSE), Jan 19-21, 2018 </li></font>
-<li><font size=2>	J. Lim and S. Hong, Effective Korean-English Parallel Sentence Extraction from Wikipedia by Consecutive Sentence Sequence Matching, Korean Congress of Computing (KCC), Jun 18-21, 2017 </li></font>
-<li><font size=2>	W. Kim, H. Choi, S. Hong, Application of M/G/c/c Queueing Models to Optimize Book Circulation Process in University Library, Journal of the Korea Management Engineering Society, Dec 2016 </li></font>
-<li><font size=2>	Y. Jeon, Y. Kim, S. Hong, M. Kim, Mutagen4J: Effective Mutation Generation Tool for Java Programs, Journal of KIISE (JOK), 43(9), pp. 974—982, Sep 2016 </li></font>
- </ol>
-</font>
+<font size=2><li> H. Choe and S. Hong, Multi-directional Concolic Testing Search Strategies for Mitigating Path-space Local Search Problem, Korean Software Engineering Conference (KCSE), Feb 1-2, 2021 (short paper) </li></font>
+<font size=2><li>	H. Choe and S. Hong, Bounded Search Strategies of Concolic Testing for Effective and Efficient Structural Coverage Achievement, Journal of KIISE, 48(2), pp. 201-210, Feb 2021</li></font>
+<font size=2><li>	J. Cho and S. Hong, Improving Mutation-based Fuzzing by Input Keyword Extraction, Korean Software Engineering Conference (KCSE), Feb 1-2, 2021 (Best short paper award)</li></font>
+<font size=2><li>	D. Kim, S. Kim, S. Hong, Effective Continuous Testing with Automated Unit Test Generation Technique, Korean Software Congress (KSC), Dec 2020 (Best undergraduate student paper award)</li></font>
+<font size=2><li>	J. Jeon, S. Hong, Detecting Subtype Inconsistency Errors by Unit Test Cross-checking, Korean Congress of Computing (KCC), July 2020 </li></font>
+<font size=2><li>	J. Jeon and S. Hong, Improving Mutation-Based Fault Localization for Better Locating Omission Faults Using Coverage Change Information, Journal of KIISE, 47 (9), pp. 863-872, Sep 2020 </li></font>
+<font size=2><li>	H. Leem, H. Choe, H. Kim, S. Hong, CRESTIVE-DX: Design and Implementation of Distributed Concolic Testing Tool for Embedded Software, KIPS Transactions on Software and Data Engineering (KTSDE), 9 (8), pp. 229-234, Aug 2020 </li></font>
+<font size=2><li>	J. Kim, Y. Jeon, S. Hong, Design and Implementation of Code-related Conversation Service for Online Programming Education, Korean Congress of Computing (KCC), July 2019 </li></font>
+<font size=2><li>	J. Kim, S. Hong, Evaluation of Test Requirement Extraction Techniques for Javadoc Description, Korean Software Engineering Conference (KCSE), 2020 (short paper) </li></font>
+<font size=2><li>	H. Choe, H. Leem, H. Kim, S. Hong, Design and Implementation of Distributed Concolic Testing Tool for Embedded Software, Korean Software Engineering Conference, 2020 (Best short paper award) </li></font>
+<font size=2><li>	J. Jeon and S. Hong, Improving Mutation-Based Fault Localization for Better Locating Omission Faults, Korean Software Congress (KSC), Dec 2019 (Best paper award) </li></font>
+<font size=2><li>	C. Kim, J. Oh, H, Jeong, M. Ha, S. Hong, Design and Implementation of Automated Programming Assignment Assessment Systems for GitHub Repositories, Korean Software Congress (KSC), Dec 2019 (Best paper award) </li></font>
+<font size=2><li>	H. Choe and S. Hong, Bounded Search Strategies of Concolic Testing for Effective and Efficient Test Coverage Achievement, Korean Congress of Computing (KCC), Jun 26-28, 2019 (Best paper award) </li></font>
+<font size=2><li>	S. Hong, Y. Kim, M. Kim, S. Yoon, H. Jeong, S. Park, AtomicitySanitizer: Effective Runtime Atomicity Violation Detector for Multithreaded C Programs, Korean Software Congress (KSC), Dec 19-21, 2019 (Best paper presentation award) </li></font>
+<font size=2><li>	J. Lee, H. Choe, S. Hong, Systematic and Comprehensive Comparisons of the MOIS Security Vulnerability Inspection Criteria and Open-Source Security Bug Detectors for Java Web Applications, Journal of Software Engineering Society, 28(1), 2019 </li></font>
+<font size=2><li>	H. Choe and S. Hong, Categories and Patterns of Java Program Unit Test Code Bugs, Journal of KIISE, 46(4), 2019 </li></font>
+<font size=2><li>	H. Choe and S. Hong, A Classification of Unit Test Bugs in Java Programs, Korean Congress of Computing (KCC), Jun 20-22, 2018 (Best paper award) </li></font>
+<font size=2><li>	J. Lee and S. Hong, Detecting Memory Bloats of Java Programs by Monitoring Repeated Unit Test Executions: A Case Study with Apache Commons VFS, Korean Software Engineering Conference (KCSE), Jan 19-21, 2018 </li></font>
+<font size=2><li>	J. Lim and S. Hong, Effective Korean-English Parallel Sentence Extraction from Wikipedia by Consecutive Sentence Sequence Matching, Korean Congress of Computing (KCC), Jun 18-21, 2017 </li></font>
+<font size=2><li>	W. Kim, H. Choi, S. Hong, Application of M/G/c/c Queueing Models to Optimize Book Circulation Process in University Library, Journal of the Korea Management Engineering Society, Dec 2016 </li></font>
+<font size=2><li>	Y. Jeon, Y. Kim, S. Hong, M. Kim, Mutagen4J: Effective Mutation Generation Tool for Java Programs, Journal of KIISE (JOK), 43(9), pp. 974—982, Sep 2016 </li></font>
+</ol>
