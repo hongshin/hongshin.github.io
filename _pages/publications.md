@@ -7,9 +7,8 @@ permalink: /publications/
 
 <h4> International conference and journal papers </h4>  <a class="page-link" href="https://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ"> \[Google Scholar\] </a> <a class="page-link" href="https://dblp.dagstuhl.de/pers/hd/h/Hong:Shin"> \[DBLP\] </a> <a class="page-link" href="https://github.com/hongshin/publications"> \[PDFs\] </a>
 
-<font size=1>
-<p> 1.	H. Yoo, J. Hong, B. Lucas, D. W. Hwang, S. Hong, Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA, The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2021, accepted </p>
-<p>  2.	R. S. Herlim, S. Hong, Y. Kim, M. Kim, Empirical Study of Effectiveness of EvoSuite on the SBST 2020 Tool Competition Benchmark, the 13th Symposium on Search-Based Software Engineering (SSBSE), Replications and Negative Results (RENE), 2021, accepted </p>
+<p> <font size=2> 1.	H. Yoo, J. Hong, B. Lucas, D. W. Hwang, S. Hong, Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA, The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2021, accepted </font> </p>
+<p> <font size=2> 2.	R. S. Herlim, S. Hong, Y. Kim, M. Kim, Empirical Study of Effectiveness of EvoSuite on the SBST 2020 Tool Competition Benchmark, the 13th Symposium on Search-Based Software Engineering (SSBSE), Replications and Negative Results (RENE), 2021, accepted </font> </p>
 <p> 3.	Y. Kim and S. Hong, Learning-based Mutant Reduction using Fine-grained Mutation Operators, Software Testing, Verification and Reliability (STVR), accepted. </p>
 <p> 4.	Y. Kim and S. Hong, DeMiner: Test Generation for High Test Coverage through Mutant Exploration, Software Testing, Verification and Reliability (STVR), Volume 31, Issue 1-2, January-March, 2021 </p>
 <p> 5.	J. Jeon and S. Hong, Threats to Validity in Evaluating Mutation-based Fault Localization, International Conference on Software Engineering (ICSE), New Ideas and Emerging Results (NIER), Jul 6-11, 2020 (acceptance ratio: 30%) </p>
@@ -27,9 +26,9 @@ permalink: /publications/
 <p> 17.	M. Staats, S. Hong, M. Kim, and G. Rothermel, Understanding User Understanding: Determining Correctness of Generated Program Invariants, International Symposium on Software Testing and Analysis (ISSTA), Jul 15-20, 2012 (acceptance ratio: 28.7%) </p>
 <p> 18.	S. Hong, J. Ahn, S. Park, M. Kim, and M. J. Harrold, Testing Concurrent Programs to Achieve High Synchronization Coverage, International Symposium on Software Testing and Analysis (ISSTA), Jul 15-20, 2012 (acceptance ratio: 28.7%) </p>
 <p> 19.	M. Kim, S. Hong. C. Hong, T. Kim, Model-based Kernel Testing for Concurrency Bugs through Counter Example Replay, Model-based Testing (ENTCS volume 253, issue 2), York, UK, Mar 2009 </p>
-</font>
 
-
+ 
+ 
 <h4> Domestic conference and journal papers (written in Korean) </h4>
 
 <a class="page-link" href="http://www.dbpia.co.kr/Author/AuthorInfo?arcId=&ancId=712724"> [DBpia] </a>
