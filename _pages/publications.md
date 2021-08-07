@@ -9,7 +9,7 @@ permalink: /publications/
 
 <p>
 <ol>
-<font size=2> <li> H. Yoo, J. Hong, B. Lucas, D. W. Hwang, S. Hong, Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA, The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2021, accepted <br> </font></li> 
+<font size=2> <li> H. Yoo, J. Hong, B. Lucas, D. W. Hwang, S. Hong, Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA, The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, 2021, accepted <br/><br/></li></font>
 <font size=2> <li> R. S. Herlim, S. Hong, Y. Kim, M. Kim, Empirical Study of Effectiveness of EvoSuite on the SBST 2020 Tool Competition Benchmark, the 13th Symposium on Search-Based Software Engineering (SSBSE), Replications and Negative Results (RENE), 2021, accepted </li></font>
 <font size=2> <li> Y. Kim and S. Hong, Learning-based Mutant Reduction using Fine-grained Mutation Operators, Software Testing, Verification and Reliability (STVR), accepted. </li> </font>
 <font size=2> <li> Y. Kim and S. Hong, DeMiner: Test Generation for High Test Coverage through Mutant Exploration, Software Testing, Verification and Reliability (STVR), Volume 31, Issue 1-2, January-March, 2021 </li> </font>
