@@ -22,7 +22,7 @@ Shin Hong has researched in automated software engineering with high interests o
 * automated software debugging
 * static and dynamic analyses 
 
-The full list of the publications can be found at [Google Scholar](http://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ) and [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hong:Shin); more information at his [Curricuulm Vitae](https://github.com/hongshin/hongshin.github.io/blob/master/shinhong-cv.pdf).
+The full list of the publications can be found at the [publications](https://hongshin.github.io/publications) page; more information at his [Curricuulm Vitae](https://github.com/hongshin/hongshin.github.io/blob/master/shinhong-cv.pdf).
 
 🔔 Recruiting new graduate students of the ARISE lab [[more]](https://hongshin.github.io/recruit)  
 
