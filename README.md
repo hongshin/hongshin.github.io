@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Shin Hong
-description: Ph.D in Computer Science / Assistant Professor @ CSEE, HGU <br> 홍신 (한동대학교 전산전자공학부 조교수)
+description: Ph.D in Computer Science / Assistant Professor @ CSEE, HGU <br> 홍신 (한동대학교 전산전자공학부 부교수)
 
 profile:
   align: right
@@ -12,7 +12,7 @@ news: false
 social: false
 ---
 
-Shin Hong is an assistant professor at [School of Computer Science and Electrical Engineering](http://csee.handong.edu) 
+Shin Hong is an associate professor at [School of Computer Science and Electrical Engineering](http://csee.handong.edu) 
 in [Handong Global University (HGU)](http://www.handong.edu), where he leads the [ARISE lab](https://arise.handong.edu).
 He received Ph.D in Computer Science from [School of Computing](http://cs.kaist.ac.kr) at [KAIST](http://www.kaist.ac.kr) where he also had his M.S and B.S degrees. 
 
@@ -20,7 +20,7 @@ Shin Hong has researched in automated software engineering with high interests o
 
 * automated test generation 
 * automated software debugging
-* static and dynamic analyses 
+* static and dynamic program analyses 
 
 The full list of the publications can be found at the [publications](https://hongshin.github.io/publications) page; more information at his [Curricuulm Vitae](https://github.com/hongshin/hongshin.github.io/blob/master/shinhong-cv.pdf).
 
