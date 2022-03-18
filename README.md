@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Shin Hong
-description: Ph.D in Computer Science / Assistant Professor @ CSEE, HGU <br> 홍신 (한동대학교 전산전자공학부 부교수)
+description: Ph.D in Computer Science / Associate Professor @ CSEE, HGU <br> 홍신 (한동대학교 전산전자공학부 부교수)
 
 profile:
   align: right
