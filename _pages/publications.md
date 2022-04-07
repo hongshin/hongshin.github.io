@@ -8,6 +8,9 @@ permalink: /publications/
 <h4> International conference and journal papers </h4>  <a class="page-link" href="https://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ"> \[Google Scholar\] </a> <a class="page-link" href="https://dblp.dagstuhl.de/pers/hd/h/Hong:Shin"> \[DBLP\] </a> <a class="page-link" href="https://github.com/hongshin/publications"> \[PDFs\] </a>
 
 <ol>
+<font size=2> <li> J. Kim, J. Jeon, S. Hong, S. Yoo, Predictive Mutation Analysis via Natural Language Channel in Source Code, ACM Transactions on Software Engineering and Methodology (TOSEM), accepted (published online)
+<br/><br/></li></font>
+<font size=2> <li> J. Yoon, S. Chung, K. Shin, J. Kim, S. Hong, and S. Yoo, Repairing Fragile GUI Test Cases Using Word and Layout Embedding. Proceedings of the 15th IEEE International Conference on Software Testing, Verification and Validation, Industry Track, April 2022 <br/><br/></li></font>
 <font size=2> <li> H. Yoo, J. Hong, B. Lucas, D. W. Hwang, S. Hong, Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA, The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, Nov 14-20, 2021 <a href="https://hongshin.github.io/pubs/ase21-industry.pdf">[pdf]</a> <br/><br/></li></font>
 <font size=2> <li> R. S. Herlim, S. Hong, Y. Kim, M. Kim, Empirical Study of Effectiveness of EvoSuite on the SBST 2020 Tool Competition Benchmark, the 13th Symposium on Search-Based Software Engineering (SSBSE), Replications and Negative Results (RENE), Oct 11-12, 2021 <a href="https://hongshin.github.io/pubs/ssbse21-evosuite.pdf">[pdf]</a> <br/><br/></li></font>
 <font size=2> <li> Y. Kim and S. Hong, Learning-based Mutant Reduction using Fine-grained Mutation Operators, Software Testing, Verification and Reliability (STVR), accepted (publisehd online at Aug 2021). <br/><br/></li> </font>
