@@ -28,8 +28,6 @@ The full list of the publications can be found at the [publications](https://hon
 
 🔔 Request form for academic consulting [[link]](https://forms.gle/AHtwGrowgTPhhq5dA) (requires Handong sign-in) 
 
-Recruiting new graduate students of the ARISE lab [[more]](https://arise.handong.edu/recruit)
-
 ---
 
 <a href="mailto:hongshin@handong.edu"> hongshin@handong.edu </a>
