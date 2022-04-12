@@ -25,6 +25,7 @@ Shin Hong has researched in automated software engineering with high interests o
 The full list of the publications can be found at the [publications](https://hongshin.github.io/publications) page; more information at his [Curricuulm Vitae](https://github.com/hongshin/hongshin.github.io/blob/master/shinhong-cv.pdf).
 
 🔔 Recruiting new graduate students of the ARISE lab [[more]](https://arise.handong.edu/recruit)
+
 🔔 Request form for academic consulting [[link]](https://forms.gle/AHtwGrowgTPhhq5dA) (requires Handong sign-in) 
 
 Recruiting new graduate students of the ARISE lab [[more]](https://arise.handong.edu/recruit)
