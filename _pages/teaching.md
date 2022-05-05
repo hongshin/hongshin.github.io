@@ -4,7 +4,10 @@ permalink: /teaching/
 title: Teaching
 ---
 #### Research Supervision ####
-* Hanyoung Yoo, Master's Degree, Mar 2020--present
+* Jeewoong Kim, Ph.D Program, Mar 2022--present
+* Suhyun Park, Master's Degree, Mar 2022--present
+* Sungbin Lim, Master's Degree, Mar 2022--present
+* Hanyoung Yoo, Master's Degree, Mar 2020--Feb 2022
 * Jeewoong Kim, Master's Degree, Jan 2019--Aug 2021
 * Juyoung Jeon, Master's Degree, Mar 2019--Feb 2021
 * Hansol Choe, Master's Degree, Mar 2018--Feb 2021
