@@ -8,7 +8,9 @@ permalink: /publications/
 <h4> International conference and journal papers </h4>  <a class="page-link" href="https://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ"> \[Google Scholar\] </a> <a class="page-link" href="https://dblp.dagstuhl.de/pers/hd/h/Hong:Shin"> \[DBLP\] </a> <a class="page-link" href="https://github.com/hongshin/publications"> \[PDFs\] </a>
 
 <ol>
-<font size=2> <li> J. Kim, J. Jeon, S. Hong, S. Yoo, Predictive Mutation Analysis via Natural Language Channel in Source Code, ACM Transactions on Software Engineering and Methodology (TOSEM), accepted (published online)
+<font size=2> <li> J. Kim and S. Hong, Inferring Fine-grained Traceability Links between Javadoc Comment and JUnit Test Code, the 38th IEEE International Conference on Software Maintenance and Evolution (ICSME), New Ideas and Emerging Results Track (NIER), accepted.
+<br/><br/></li></font>
+<font size=2> <li> J. Kim, J. Jeon, S. Hong, S. Yoo, Predictive Mutation Analysis via Natural Language Channel in Source Code, ACM Transactions on Software Engineering and Methodology (TOSEM), 31(4), pp. 1-27, Oct 2022
 <br/><br/></li></font>
 <font size=2> <li> J. Yoon, S. Chung, K. Shin, J. Kim, S. Hong, and S. Yoo, Repairing Fragile GUI Test Cases Using Word and Layout Embedding. Proceedings of the 15th IEEE International Conference on Software Testing, Verification and Validation, Industry Track, April 2022 <br/><br/></li></font>
 <font size=2> <li> H. Yoo, J. Hong, B. Lucas, D. W. Hwang, S. Hong, Improving Configurability of Unit-level Continuous Fuzzing: An Industrial Case Study with SAP HANA, The 36th IEEE/ACM International Conference on Automated Software Engineering (ASE), Industry Showcase, Nov 14-20, 2021 <a href="https://hongshin.github.io/pubs/ase21-industry.pdf">[pdf]</a> <br/><br/></li></font>
@@ -42,6 +44,7 @@ permalink: /publications/
 <br>
 
 <ol> 
+<font size=2> <li>	J. Kim, S. Kim, S. Hong, How Does a Unit-level Test Case for Continuous Fuzzing Evolve: An Empirical Study of Code Changes in OSS-Fuzz Projects, Korean Congress of Computing (KCC), Jun 30-Jul 1, 2022 <br/><br/></li></font>
 <font size=2> <li>	H. Yoo and S. Hong, OSSFuzzBugs: A Collection of Open-source Real-world Fault Artifacts for Experimenting Unit-level Fuzzing Techniques, Korean Congress of Computing (KCC), Jun 23-25, 2021 <br/><br/></li></font>
 <font size=2><li> H. Choe and S. Hong, Multi-directional Concolic Testing Search Strategies for Mitigating Path-space Local Search Problem, Korean Software Engineering Conference (KCSE), Feb 1-2, 2021 (short paper) <br/><br/></li></font>
 <font size=2><li> H. Choe and S. Hong, Bounded Search Strategies of Concolic Testing for Effective and Efficient Structural Coverage Achievement, Journal of KIISE, 48(2), pp. 201-210, Feb 2021<br/><br/></li></font>
