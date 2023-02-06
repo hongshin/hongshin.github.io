@@ -5,6 +5,7 @@ title: Teaching
 ---
 #### Research Supervision ####
 * Jeewoong Kim, Ph.D Program, Mar 2022--present
+* Kieun Kim, Master's Degree, Mar 2023--present
 * Suhyun Park, Master's Degree, Mar 2022--present
 * Sungbin Lim, Master's Degree, Mar 2022--present
 * Hanyoung Yoo, Master's Degree, Mar 2020--Feb 2022
