@@ -4,10 +4,10 @@ title: 대학원생 모집
 permalink: /recruit/
 ---
 
-2023년 4월 5일
+2023년 9월 11일
 
 **ARISE 연구실에서 석사, 학석사연계, 석박사연계, 박사 과정으로 진학할 신입생을 모집합니다.**
-* [English version](http://arise.handong.edu/recruit)
+* 보다 자세한 설명을 영문 페이지에서 보실 수 있습니다. [English version](http://arise.handong.edu/recruit)
 
 #### 연구분야 #####
 ARISE 연구실은 오늘날 소프트웨어로 인한 위험요소는 무엇인가, 안전하고(Safe & Secure), 믿을 수 있는(Reliable) 소프트웨어를 어떻게 만들 수 있는가,
