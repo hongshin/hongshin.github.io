@@ -8,7 +8,7 @@ permalink: /publications/
 <h4> International conference and journal papers </h4>  <a class="page-link" href="https://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ"> \[Google Scholar\] </a> <a class="page-link" href="https://dblp.dagstuhl.de/pers/hd/h/Hong:Shin"> \[DBLP\] </a> <a class="page-link" href="https://github.com/hongshin/publications"> \[PDFs\] </a>
 
 <ol>
-<font size=2> <li> J. Kim and S. Hong, BugOss: A Regression Bug Benchmark for Empirical Study of Regression Fuzzing Techniques, IEEE International Conference on Software Testing, Verification and Validation (ICST), Poster Track (to present) <br/><br/></li> </font>
+<font size=2> <li> J. Kim and S. Hong, BugOss: A Regression Bug Benchmark for Empirical Study of Regression Fuzzing Techniques, IEEE International Conference on Software Testing, Verification and Validation (ICST), Poster Track, Apr 2023 <br/><br/></li> </font>
 <font size=2> <li> Y. Kim and S. Hong, Learning-based Mutant Reduction using Fine-grained Mutation Operators, Software Testing, Verification and Reliability (STVR), 32 (7), Nov 2022. <br/><br/></li> </font>
 <font size=2> <li> J. Kim and S. Hong, Inferring Fine-grained Traceability Links between Javadoc Comment and JUnit Test Code, the 38th IEEE International Conference on Software Maintenance and Evolution (ICSME), New Ideas and Emerging Results Track (NIER), Oct 2022
 <br/><br/></li></font>
