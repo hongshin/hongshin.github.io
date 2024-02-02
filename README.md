@@ -21,10 +21,11 @@ Shin Hong has researched in automated software engineering with high interests o
 
 The full list of the publications can be found at the [publications](https://hongshin.github.io/publications) page; more information at his [Curriculum Vitae](https://github.com/hongshin/hongshin.github.io/blob/master/shinhong-cv.pdf).
 
-🔔 Recruiting new graduate students of the ARISE lab [[more]](https://arise.handong.edu/recruit)
+🔔 <b> I will join the faculty of the [School of Computer Science](http://software.cbnu.ac.kr) at [Chungbuk National University (CBNU)](http://www.cbnu.ac.kr) in Mar 2024.  </b>
 
+<!-- 🔔 Recruiting new graduate students of the ARISE lab [[more]](https://arise.handong.edu/recruit)
 🔔 Request form for academic consulting [[link]](https://forms.gle/AHtwGrowgTPhhq5dA) (requires Handong sign-in) 
-
+-->
 ---
 
 <a href="mailto:hongshin@handong.edu"> hongshin@handong.edu </a>
