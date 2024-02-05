@@ -24,9 +24,10 @@ The full list of the publications can be found at the [publications](https://hon
 ---
 News
 
-🔔 <b> I will join the faculty of the [School of Computer Science](http://software.cbnu.ac.kr) at [Chungbuk National University (CBNU)](http://www.cbnu.ac.kr) in Mar 2024.  </b>
+🔔 <b> I will join the faculty of the [School of Computer Science](http://software.cbnu.ac.kr) at [Chungbuk National University (CBNU)](http://www.cbnu.ac.kr) in Mar 2024.  </b> <br>
+🔔 <b> Shin Hong is starting out [SDEV lab](http://sdevlab.github.io) at CBNU. </b>
 
-<!-- 🔔 Recruiting new graduate students of the ARISE lab [[more]](https://arise.handong.edu/recruit)
+<!-- 🔔 Recruiting new graduate students of the ARISE lab [[more]](https://arise.handong.edu/recruit) 
 🔔 Request form for academic consulting [[link]](https://forms.gle/AHtwGrowgTPhhq5dA) (requires Handong sign-in) 
 -->
 ---
