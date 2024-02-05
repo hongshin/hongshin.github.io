@@ -21,12 +21,11 @@ Shin Hong has researched in automated software engineering with high interests o
 
 The full list of the publications can be found at the [publications](https://hongshin.github.io/publications) page; more information at his [Curriculum Vitae](https://github.com/hongshin/hongshin.github.io/blob/master/shinhong-cv.pdf).
 
-<p>
-  
+ 
 **News**
 
-🔔 <b> Shin Hong will join the faculty of the [School of Computer Science](http://software.cbnu.ac.kr) at [Chungbuk National University (CBNU)](http://www.cbnu.ac.kr) in Mar 2024.  </b> <br>
-🔔 <b> Shin Hong starts out [SDEV lab](http://sdevlab.github.io) at CBNU. </b>
+🔔 Shin Hong will join the faculty of the [School of Computer Science](http://software.cbnu.ac.kr) at [Chungbuk National University (CBNU)](http://www.cbnu.ac.kr) in Mar 2024.  <br>
+🔔 Shin Hong starts out [SDEV lab](http://sdevlab.github.io) at CBNU.
 
 <!-- 🔔 Recruiting new graduate students of the ARISE lab [[more]](https://arise.handong.edu/recruit) 
 🔔 Request form for academic consulting [[link]](https://forms.gle/AHtwGrowgTPhhq5dA) (requires Handong sign-in) 
