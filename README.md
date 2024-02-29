@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Shin Hong
-description: Ph.D in Computer Science / Associate Professor @ CSEE, HGU <br> 홍신 (한동대학교 전산전자공학부 부교수)
+description: Ph.D in Computer Science / Associate Professor @ School of Computer Science, CBNU <br> 홍신 (충북대학교 소프트웨어학부 부교수)
 
 profile:
   align: right
@@ -12,9 +12,9 @@ news: false
 social: false
 ---
 
-Shin Hong is an associate professor at [School of Computer Science and Electrical Engineering](http://csee.handong.edu) 
-in [Handong Global University (HGU)](http://www.handong.edu), where leads the [ARISE lab](https://arise.handong.edu).
-Shin Hong has researched in automated software engineering with high interests on the following topics:
+Shin Hong is an associate professor at [School of Computer Science](http://software.cbnu.ac.kr) 
+in [Chungbuk National University (CBNU)](http://www.handong.edu), where leads the [SDEV lab](https://sdevlab.github.io).
+Shin Hong has researched in Software Engineering with high interests on the following topics:
 * test generation techniques
 * automated debugging techniques
 * static and dynamic program analyses 
@@ -24,7 +24,6 @@ The full list of the publications can be found at the [publications](https://hon
  
 **News**
 
-🔔 Shin Hong will join the faculty of the [School of Computer Science](http://software.cbnu.ac.kr) at [Chungbuk National University (CBNU)](http://www.cbnu.ac.kr) in Mar 2024.  <br>
 🔔 Shin Hong starts out [SDEV lab](http://sdevlab.github.io) at CBNU.
 
 <!-- 🔔 Recruiting new graduate students of the ARISE lab [[more]](https://arise.handong.edu/recruit) 
@@ -32,13 +31,13 @@ The full list of the publications can be found at the [publications](https://hon
 -->
 ---
 
-<a href="mailto:hongshin@handong.edu"> hongshin@handong.edu </a>
-+82-54-260-1409 <br>
-313 Oseok Hall, Handong Global University <br>
-558 Handong-ro, Buk-gu, Pohang, Gyeongbuk, South Korea (37554) 
+<a href="mailto:hongshin@chungbuk.ac.kr"> hongshin@chungbuk.ac.kr </a>
++82-43-261-2264 <br>
+316 S4-1, 1 Chungdae-ro, Seowon-gu, <br>
+Cheongju, Chungbuk, South Korea (28644) 
 
 ----
 
 <!--{:.center}-->
-<center> <small> Powered by Github + Jekyll with the <a href="https://github.com/alshedivat/al-folio">Al-folio</a> theme </small> </center>
+<center> <font size="1"> Powered by Github + Jekyll with the <a href="https://github.com/alshedivat/al-folio">Al-folio</a> theme </font> </center>
 
