@@ -19,7 +19,7 @@ Shin Hong has researched in Software Engineering with high interests on the foll
 * automated debugging techniques
 * static and dynamic program analyses 
 
-The full list of the publications can be found at the [publications](https://hongshin.github.io/publications) page; more information at his [Curriculum Vitae](https://github.com/hongshin/hongshin.github.io/blob/master/shinhong-cv.pdf).
+The full list of the publications can be found at the [publications](https://hongshin.github.io/publications) page; more information at his [Curriculum Vitae](https://hongshin.github.io/shinhong-cv.pdf).
 
  
 **News**
