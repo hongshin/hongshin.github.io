@@ -13,28 +13,30 @@ social: false
 ---
 
 Shin Hong is an associate professor at [School of Computer Science](http://software.cbnu.ac.kr) 
-in [Chungbuk National University (CBNU)](http://www.handong.edu), where leads the [SDEV lab](https://sdevlab.github.io).
+in [Chungbuk National University (CBNU)](http://www.handong.edu), where he leads the [SDEV lab (소프트웨어 개발검증 연구실)](https://sdevlab.github.io).
 Shin Hong has researched in Software Engineering with high interests on the following topics:
-* test generation techniques
-* automated debugging techniques
-* static and dynamic program analyses 
+* Test case generation
+* Debugging automation
+* Static, dynamic and neural program analyses 
 
 The full list of the publications can be found at the [publications](https://hongshin.github.io/publications) page; more information at his [Curriculum Vitae](https://hongshin.github.io/shinhong-cv.pdf).
 
  
 **News**
 
+🔔 Recruiting new graduate students [\[more\]](https://sdevlab.github.io/recruit) 
+
 🔔 Shin Hong starts out [SDEV lab](http://sdevlab.github.io) at CBNU.
 
-<!-- 🔔 Recruiting new graduate students of the ARISE lab [[more]](https://arise.handong.edu/recruit) 
+
+<!--
 🔔 Request form for academic consulting [[link]](https://forms.gle/AHtwGrowgTPhhq5dA) (requires Handong sign-in) 
 -->
 ---
 
 <a href="mailto:hongshin@chungbuk.ac.kr"> hongshin@chungbuk.ac.kr </a>
 +82-43-261-2264 <br>
-316 S4-1, 1 Chungdae-ro, Seowon-gu, <br>
-Cheongju, Chungbuk, South Korea (28644) 
+316 S4-1, 1 Chungdae-ro, Seowon-gu, Cheongju, Chungbuk (28644), Republic of Korea
 
 ----
 
