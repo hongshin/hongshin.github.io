@@ -8,6 +8,8 @@ permalink: /publications/
 <h4> International conference and journal papers </h4>  <a class="page-link" href="https://scholar.google.co.kr/citations?user=AXlXg2AAAAAJ"> \[Google Scholar\] </a> <a class="page-link" href="https://dblp.dagstuhl.de/pers/hd/h/Hong:Shin"> \[DBLP\] </a> <a class="page-link" href="https://github.com/hongshin/publications"> \[PDFs\] </a>
 
 <ol>
+<font size=2> <li> A. Lee, Y. Choi., S. Hong, Y. Kim, K. Cho, M. Kim, ZigZagFuzz: Interleaved Fuzzing of Program Options and Files, ACM Transactions on Software Engineering and Methodology, accepted
+<br/><br/></li> </font>
 <font size=2> <li> J. Kim and S. Hong, BugOss: A Benchmark of Real-world Regression Bugs for Empirical Investigation of Regression Fuzzing Techniques, Journal of Systems and Software (JSS), Vol. 216, Oct 2024
 <br/><br/></li> </font>
 <font size=2> <li> J. Kim and S. Hong, Poster: BugOss: A Regression Bug Benchmark for Empirical Study of Regression Fuzzing Techniques, IEEE International Conference on Software Testing, Verification and Validation (ICST), Poster Track, Apr 2023 <br/><br/></li> </font>
