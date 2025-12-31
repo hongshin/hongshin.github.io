@@ -24,7 +24,7 @@ The full list of the publications can be found at the [publications](https://hon
  
 **News**
 
-🔔 Recruiting new graduate students (2024-12-26) [\[more\]](https://sdevlab.notion.site/SDEV-2025-1184543d19af80b3b926d7290e9c60dc?pvs=74) 
+🔔 Recruiting new graduate students (2025-12-31) [\[more\]](https://sdevlab.notion.site/recruit) 
 
 🔔 Shin Hong starts out [SDEV lab](http://sdevlab.github.io) at CBNU.
 
